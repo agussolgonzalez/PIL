@@ -51,6 +51,7 @@ def calc_prox_serv(x):
     print('El proximo servicio es a los : ',nuevo_service,'km.')
     return nuevo_service
 
+
 # Proyecto main
 opc = 0
 while opc != 2:

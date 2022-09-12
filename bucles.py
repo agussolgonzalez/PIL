@@ -1,3 +1,4 @@
+#Menu de practica, corregir errores
 def menu():
 	print("menu")
 	print("1. Depositar")
@@ -16,5 +17,5 @@ if opcion == 1:
             elif menu== 4:
                 break
             else:
-                print('\n La opcion ingresada no corresponde ')4
+                print('\n La opcion ingresada no corresponde ')
                 
